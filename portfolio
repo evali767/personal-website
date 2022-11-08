@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>Eva L's Personal Website - Portfolio</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <body>
+    
+
+      <nav>
+        <ul>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="portfolio.html">Portfolio</a>
+          </li>
+        </ul>
+      </nav>
+
+    
+    <header>   
+      <h1 id="port" style="font-size:3vw">This is my portfolio page! Here are a few things that I have created:</h1>     
+    </header>
+   
+
+    <h2>1) Robot</h2>
+
+      <img class="portphotos" src="assets/robot.JPG" width=300 px alt="This is an image of a small robot made from mostly metal beams. The side view of the robot is pictured, displaying a servo, gears, wires, and more."
+        <br>
+
+      <p> This is a robot that I helped to build with a few of my teammates in Mechatronics class a few months ago. We used Tetrix pieces and attactched things like motors and servos to the robot to allow it to move. We used a Lego Mindstorms EV3 brick to program the robot.  </p>
+    <h2>2) Tic Tac Toe Program</h2>
+    <img class="portphotos" src="assets/tictactoe.png" width = 1200 px alt="This is a screenshot of a program displaying the first few lines of code  and a console. In the console, Tic Tac Toe is drawn out in ASCII art, or art that is made from characters on a keyboard."
+     <br>
+      <p> This is a coding project that I completed with my classmate in AP Computer Science class this past year in which we created a working Tic Tac Toe game that users can play in the console. The program is written in Java and was completely written from scratch. </p>    
+
+  </body>
+</html>
