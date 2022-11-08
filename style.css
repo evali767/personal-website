@@ -1,0 +1,137 @@
+/* STYLE SECTIONING TAGS */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+ background-color: #DDD0D2; 
+/*   margin-left:  100px;
+  margin-top: 50px;
+  margin-right: 100px; */
+}
+
+
+
+
+
+
+
+main{
+  margin-right: 4%;
+  margin-left: 12%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #042525;
+    background-color: #F2F8F3;
+/*   margin-top: 40px; */
+/*   margin-left: 70px; */
+/*   margin-bottom: 40px; */
+  padding: 1%;
+}
+
+h2 {
+  color: #5C3E65;
+  text-decoration-line: underline;
+  margin-left: 70px;
+  margin-bottom: 40px;
+}
+
+p {
+  color: #063737;
+  font-family: Courier-new, monospace;
+  font-size: 17px;
+  margin-right: 70px;
+  margin-bottom: 70px;
+  margin-left: 70px;
+    background-color: #F2F8F3;
+}
+
+.home{
+
+  font-size: 100%;
+  margin-left: 20%;
+  margin-top: 10%;
+
+
+}
+
+#welcome{
+
+  font-family: georiga, serif;
+  font-size: 100%;
+    margin-right:60%;
+  margin-top: 2%;
+  margin-left: 4%;
+  margin-bottom: 2%;
+  margin-right:60%;
+
+}
+
+#port{
+  font-size: 100%;
+  font-family: georiga, serif;
+      margin-right:40%;
+    margin-top: 2%;
+  margin-left: 4%;
+  margin-bottom: 2%;
+}
+
+/* STYLE IMAGES */
+
+
+img {
+  border-radius: 10%;
+    border: 7px solid #3B544D
+  
+}
+
+
+#me {
+  float:left;
+  margin-left: 4%;
+    max-width:35%;
+  margin-right: 2%;
+
+
+
+}
+
+.portphotos{
+  margin-bottom: 40px;
+  margin-left: 4%;
+  margin-right: 4%;
+  max-width: 100%;
+  
+}
+
+/* STYLE NAV BAR */
+
+ul{
+  list-style-type: none;
+  background-color: #5C3E65;
+  overflow: hidden;
+  padding: 20px;
+
+}
+
+li{
+  display: inline;
+}
+
+li a{
+  color: #F2F8F3;
+  text-decoration: none;
+  font-size: 25px;
+  padding: 20px;
+}
+
+li a:hover{
+  background-color: #063737;
+}
+
